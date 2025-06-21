@@ -1,9 +1,0 @@
-To whom it may concern:
-
-I need to request archives of my website to be excluded from the Wayback Machine. The website was previously located at https://www.ethancoleman.co/. The Wayback Machine has archives of the website ranging from December 2, 2021 to September 8, 2024. I have been in control of the domain since October 19, 2019.
-
-This request is due to multiple threats of "swatting" recently directed at myself and my family. I am reducing our online presence, including taking down my personal website which was hosted at this domain. Bad actors continue to use the Wayback Machine to gather personal information that was included on the website, such as my name, photo, university affiliations, industry, academic interests, and previous jobs held. Thus, I am asking that the website be removed from the Wayback Machine as quickly as possible.
-
-Best,
-
-Ethan Coleman
